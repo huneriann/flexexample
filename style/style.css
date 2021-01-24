@@ -56,27 +56,27 @@ h1{
 }
 
 .flex-container .flex-item:nth-child(1) .image{
-    background-image: url('/image/bmw-x4.jpg');
+    background-image: url('image/bmw-x4.jpg');
 }
 
 .flex-container .flex-item:nth-child(2) .image{
-    background-image: url('/image/mecedes-glk.jpg');
+    background-image: url('image/mecedes-glk.jpg');
 }
 
 .flex-container .flex-item:nth-child(3) .image{
-    background-image: url('/image/nissan.jpg');
+    background-image: url('image/nissan.jpg');
 }
 
 .flex-container .flex-item:nth-child(4) .image{
-    background-image: url('/image/toyota.jpg');
+    background-image: url('image/toyota.jpg');
 }
 
 .flex-container .flex-item:nth-child(5) .image{
-    background-image: url('/image/alfa-romeo.jpg');
+    background-image: url('image/alfa-romeo.jpg');
 }
 
 .flex-container .flex-item:nth-child(6) .image{
-    background-image: url('/image/batmobile.jpg');
+    background-image: url('image/batmobile.jpg');
 }
 
 @media (max-device-width: 800px){
